@@ -1,0 +1,1 @@
+https://addons.mozilla.org/zh-TW/firefox/addon/volume-control-x/
